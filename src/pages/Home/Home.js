@@ -151,7 +151,7 @@ function Home() {
 									url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
 								/>
 
-								<Button style="z-index:100" onClick={()=>mostrarZona} position={selectedLocation}>VER EN ESTA ZONA</Button>
+								<button id="refreshButton">Localizar</button>
 								<Marker icon={leafletIcon} position={selectedLocation} />
 								<MapConsumer>
 									{(map) => {
@@ -160,6 +160,7 @@ function Home() {
 									}}
 								</MapConsumer>
 							</MapContainer>
+					
 						)}
 					</div>
 				</HomeStyled>

@@ -85,4 +85,14 @@ export const HomeStyled = styled.div`
 		display: flex;
 		margin-top: 2rem;
 	}
+
+
+
+	#refreshButton {
+		position: absolute;
+		top: 20px;
+		right: 20px;
+		padding: 10px;
+		z-index: 400;
+	  }
 `;
