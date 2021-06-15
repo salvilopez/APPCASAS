@@ -1,0 +1,285 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page: generates and matches snapshot 1`] = `
+<div
+  className="sc-jSFjdj"
+>
+  <div
+    className="sc-gtsrHT kvaTLb"
+  >
+    <div
+      className="sc-eCApnc hBlLbq"
+    >
+      <div
+        className="logo"
+      >
+        MIPISO.com.es
+      </div>
+      <ul
+        className="menu"
+      >
+        <li>
+          <a
+            href="/acceder"
+          >
+            Acceder
+          </a>
+        </li>
+        <li>
+          <a
+            href="/registrarse"
+          >
+            Registrarse
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div
+    className="sc-gtsrHT kvaTLb"
+    style={
+      Object {
+        "backgroundColor": "#E6F2F2",
+        "borderBottom": "1px solid #B5DDDD",
+        "borderTop": "1px solid #B5DDDD",
+      }
+    }
+  >
+    <div
+      className="sc-hKFxyN hcbMhU"
+    >
+      <input
+        placeholder="Piso, chalet o garaje…"
+        type="text"
+      />
+      <input
+        placeholder="Madrid, Barcelona o Zaragoza…"
+        type="text"
+      />
+      <button
+        className="sc-bdnxRM hNJinF"
+        disabled={false}
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#46C1F7",
+            "border": "none",
+            "padding": "0.75rem",
+          }
+        }
+      >
+        <svg
+          aria-hidden="true"
+          className="svg-inline--fa fa-search fa-w-16 "
+          data-icon="search"
+          data-prefix="fas"
+          focusable="false"
+          role="img"
+          style={
+            Object {
+              "color": "white",
+            }
+          }
+          viewBox="0 0 512 512"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"
+            fill="currentColor"
+            style={Object {}}
+          />
+        </svg>
+        <span
+          style={
+            Object {
+              "display": "none",
+            }
+          }
+        >
+          Buscar...
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    className="sc-gtsrHT kvaTLb"
+  >
+    <div
+      className="sc-iCoGMd gwiLdB"
+    >
+      <div
+        className="left"
+      >
+        <div
+          className="houses-wrapper"
+        >
+          <div
+            className="houses"
+          >
+            <div
+              className="sc-dlnjwi kAKtfg house"
+            >
+              <img
+                alt=""
+                src="https://api-casas.kevinmamaqi.com/image6.jpg"
+              />
+              <div
+                className="title"
+              >
+                Piso en Raval
+              </div>
+              <div
+                className="footer"
+              >
+                <div
+                  className="price"
+                >
+                  1067912
+                </div>
+                <button
+                  className="sc-bdnxRM hNJinF"
+                  disabled={false}
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "backgroundColor": "#8077A3",
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontSize": 14,
+                      }
+                    }
+                  >
+                    Localizar
+                  </span>
+                </button>
+              </div>
+            </div>
+            <div
+              className="sc-dlnjwi kAKtfg house"
+            >
+              <img
+                alt=""
+                src="https://api-casas.kevinmamaqi.com/image1.jpg"
+              />
+              <div
+                className="title"
+              >
+                Piso en Poble Nou
+              </div>
+              <div
+                className="footer"
+              >
+                <div
+                  className="price"
+                >
+                  942977
+                </div>
+                <button
+                  className="sc-bdnxRM hNJinF"
+                  disabled={false}
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "backgroundColor": "#8077A3",
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontSize": 14,
+                      }
+                    }
+                  >
+                    Localizar
+                  </span>
+                </button>
+              </div>
+            </div>
+            <div
+              className="sc-dlnjwi kAKtfg house"
+            >
+              <img
+                alt=""
+                src="https://api-casas.kevinmamaqi.com/image3.jpg"
+              />
+              <div
+                className="title"
+              >
+                Chalet en Poble Sec
+              </div>
+              <div
+                className="footer"
+              >
+                <div
+                  className="price"
+                >
+                  864971
+                </div>
+                <button
+                  className="sc-bdnxRM hNJinF"
+                  disabled={false}
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "backgroundColor": "#8077A3",
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "white",
+                        "fontSize": 14,
+                      }
+                    }
+                  >
+                    Localizar
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+          <button
+            className="sc-bdnxRM hNJinF"
+            disabled={false}
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#4480E2",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "color": "white",
+                }
+              }
+            >
+              Cargar más
+            </span>
+          </button>
+        </div>
+      </div>
+      <div
+        className="right"
+      >
+        <div
+          style={
+            Object {
+              "width": "100%",
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

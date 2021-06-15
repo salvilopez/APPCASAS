@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": false,
+    "[javascript]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "javascript.validate.enable": false
+}
